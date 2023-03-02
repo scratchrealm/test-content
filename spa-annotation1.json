@@ -1,0 +1,1 @@
+{"frameAnnotations":[{"frameIndex":0,"instances":[{"nodeLocations":[{"id":"head","x":50,"y":50},{"id":"thorax","x":150,"y":90}]},{"nodeLocations":[{"id":"head","x":203,"y":546},{"id":"thorax","x":728,"y":132}]}]}],"skeleton":{"edges":[{"id1":"head","id2":"thorax"}],"nodes":[{"id":"head"},{"id":"thorax"}]}}
